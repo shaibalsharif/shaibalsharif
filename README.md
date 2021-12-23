@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @shaibalsharif
-- 👀 I’m interested in ... javascript, python an life
+## 👋 Hi, I’m @shaibalsharif
+- 👀 I’m interested in ... javascript,React, python
 - 🌱 I’m currently learning ... @ngular 
 - 💞️ I’m looking to collaborate on ...  web design
 - 📫 How to reach me ... shaibalsharif@gmail.com
